@@ -1,0 +1,4 @@
+export default {
+  baseURL: 'https://agentapi.58coin.com',
+  mainDomain: 'https://www.58coin.com/',
+}
